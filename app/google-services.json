@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68020510364",
+    "firebase_url": "https://mpesa-app.firebaseio.com",
+    "project_id": "mpesa-app",
+    "storage_bucket": "mpesa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68020510364:android:5f0479ef2d8b12b84dd759",
+        "android_client_info": {
+          "package_name": "com.gavin.mpesatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68020510364-kjrgrg7nadjbt3ualbft5r934pgkb9pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gavin.mpesatest",
+            "certificate_hash": "0c35df9dde7907333ce898d671009517a309d6ce"
+          }
+        },
+        {
+          "client_id": "68020510364-hidmehrdfsnkt7df9pa9vih04t6lr86c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHa60Tc95RWtBtS6embV4G3Swn3JeBPHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68020510364-hidmehrdfsnkt7df9pa9vih04t6lr86c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
